@@ -3,3 +3,15 @@
 main(){
      printf ("hola mundo");
 }
+main(){
+     printf ("hola mundo");
+}
+main(){
+     printf ("hola mundo");
+}
+main(){
+     printf ("hola mundo");
+}
+main(){
+     printf ("hola mundo");
+}
